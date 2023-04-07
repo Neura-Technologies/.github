@@ -29,22 +29,54 @@ know how the app is structured, and its intended purpose. Once a major release i
 Each grouping below shows which repo's (microservice's) together form a service or app for a client.
 The name of the repo, and a link to the repo is provided.
 
-## 2.1 App Suite
-- [Neura-Userport](https://github.com/Neura-Technologies/Neura-Userport/)
-- [Neura-Local-Dashboard](https://github.com/Neura-Technologies/Neura-Local-Dashboard)
-- [DBMS](https://github.com/Neura-Technologies/DBMS)
+## 2.1 App Suite (BusiOpsMan)
 - [BillingMicroservice](https://github.com/Neura-Technologies/BillingMicroservice)
+- [DBMS](https://github.com/Neura-Technologies/DBMS)
+- [DataUploadMicroservice ](https://github.com/Neura-Technologies/DataUploadMicroservice)
+- [TradingMicroservice](https://github.com/Neura-Technologies/TradingMicroservice)
+- [Neura-Local-Dashboard](https://github.com/Neura-Technologies/Neura-Local-Dashboard)
+- [Neura-Userport](https://github.com/Neura-Technologies/Neura-Userport/)
+- [Neura-DEM ](https://github.com/Neura-Technologies/Neura-DEM)
+- [Neura-ClientApp](https://github.com/Neura-Technologies/Neura-ClientApp)
+- [IntermediateDB-App](https://github.com/Cauchy-Consult/IntermediateDB-App)
+    This repo is not in this organization at the moment, it needs to be moved over
 
 # 3. Server Groupings
 Each grouping below shows which repo's have been deployed together on the same server.
 The name of a grouping is the same name of the EC2 instance (server) deployed on AWS.
 
 ## 3.1 MQTT Broker
+- The code deployed on this server is not currently in a repo under this organization
 
 ## 3.2 Gateway Static File and DB
+- [IntermediateDB-App](https://github.com/Cauchy-Consult/IntermediateDB-App)
+    This repo is not in this organization at the moment, it needs to be moved over
 
 ## 3.3 TestDBServer
+- ??
 
 ## 3.4 Neura-BusiOpsMan-Staging
+- [DBMS](https://github.com/Neura-Technologies/DBMS)
+- [Neura-Local-Dashboard](https://github.com/Neura-Technologies/Neura-Local-Dashboard)
+- [Neura-Userport](https://github.com/Neura-Technologies/Neura-Userport/)
+- [Neura-DEM ](https://github.com/Neura-Technologies/Neura-DEM)
 
 ## 3.5 Microservices
+- [BillingMicroservice](https://github.com/Neura-Technologies/BillingMicroservice)
+- [DataUploadMicroservice ](https://github.com/Neura-Technologies/DataUploadMicroservice)
+- [TradingMicroservice](https://github.com/Neura-Technologies/TradingMicroservice)
+
+# 4. Standalone Services
+- NeuraDataUpload (Scheduled to be obsolete)
+- NeuraDataUpload2 (Scheduled to be obsolete)
+- API_Lib (Scheduled to be obsolete)
+- Consumption (Scheduled to be obsolete)
+- NeuraLibrary (Scheduled to be obsolete)
+- NeuraCurrentBilling2 (Scheduled to be obsolete)
+- NeuraActiveData (Scheduled to be obsolete)
+- NeuraActiveTariffLibrary (Scheduled to be obsolete)
+- NeuraCurrentBilling (Scheduled to be obsolete)
+- NeuraSentinel (Scheduled to be obsolete)
+- NeuraDashboards (Scheduled to be obsolete)
+
+-NeuraGateway
