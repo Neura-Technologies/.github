@@ -10,6 +10,8 @@
     - 3.3. [TestDBServer](#33-testdbserver)
     - 3.4. [Neura-BusiOpsMan-Staging](#34-neura-busiopsman-staging)
     - 3.5. [Microservices](#35-microservices)
+4. [Standalone Servies](#4-standalone-services)
+    - 4.1. [Soon to be obsolete](##41-soon-to-be-obsolete)
 
 # 1. Do's and Dont's
 Below are the general Do's and Dont's of an organizations repos:
@@ -69,17 +71,17 @@ Neura Gateway, "server" is the broker/host, "gateway" is the client
 
 # 4. Standalone Services
 
-## 4.1 Soon to be obsolete
+## 4.1 Soon to be Obsolete
 
 The following repos is the existing Neura code base which is currently being rewritten will be superceded:
-- [NeuraDataUpload](https://github.com/Neura-Technologies/NeuraDataUpload) (Scheduled to be obsolete)
-- [NeuraDataUpload2](https://github.com/Neura-Technologies/NeuraDataUpload2) (Scheduled to be obsolete)
-- [API_Lib](https://github.com/Neura-Technologies/API_Lib) (Scheduled to be obsolete)
-- [Consumption](https://github.com/Neura-Technologies/Consumption) (Scheduled to be obsolete)
-- [NeuraLibrary](https://github.com/Neura-Technologies/NeuraLibrary) (Scheduled to be obsolete)
-- [NeuraCurrentBilling2](https://github.com/Neura-Technologies/NeuraCurrentBilling2) (Scheduled to be obsolete)
-- [NeuraActiveData](https://github.com/Neura-Technologies/NeuraActiveData) (Scheduled to be obsolete)
-- [NeuraActiveTariffLibrary](https://github.com/Neura-Technologies/NeuraActiveTariffLibrary) (Scheduled to be obsolete)
-- [NeuraCurrentBilling](https://github.com/Neura-Technologies/NeuraCurrentBilling) (Scheduled to be obsolete)
-- [NeuraSentinel](https://github.com/Neura-Technologies/NeuraSentinel) (Scheduled to be obsolete)
-- [https://github.com/Neura-Technologies/NeuraDashboards](LINK) (Scheduled to be obsolete)
+- [NeuraDataUpload](https://github.com/Neura-Technologies/NeuraDataUpload)
+- [NeuraDataUpload2](https://github.com/Neura-Technologies/NeuraDataUpload2)
+- [API_Lib](https://github.com/Neura-Technologies/API_Lib)
+- [Consumption](https://github.com/Neura-Technologies/Consumption)
+- [NeuraLibrary](https://github.com/Neura-Technologies/NeuraLibrary)
+- [NeuraCurrentBilling2](https://github.com/Neura-Technologies/NeuraCurrentBilling2)
+- [NeuraActiveData](https://github.com/Neura-Technologies/NeuraActiveData)
+- [NeuraActiveTariffLibrary](https://github.com/Neura-Technologies/NeuraActiveTariffLibrary)
+- [NeuraCurrentBilling](https://github.com/Neura-Technologies/NeuraCurrentBilling)
+- [NeuraSentinel](https://github.com/Neura-Technologies/NeuraSentinel)
+- [https://github.com/Neura-Technologies/NeuraDashboards](LINK)
