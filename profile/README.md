@@ -47,6 +47,7 @@ The name of a grouping is the same name of the EC2 instance (server) deployed on
 
 ## 3.1 MQTT Broker
 - The code deployed on this server is not currently in a repo under this organization
+Neura Gateway, "server" is the broker/host, "gateway" is the client 
 
 ## 3.2 Gateway Static File and DB
 - [IntermediateDB-App](https://github.com/Cauchy-Consult/IntermediateDB-App)
