@@ -72,7 +72,7 @@ This repo is not in this organization at the moment, it needs to be moved over
 
 ## 4.1 Soon to be Obsolete
 
-The following repos is the existing Neura code base which is currently being rewritten, and will be superceded:
+The following repos together form the existing Neura code base, which is currently being rewritten, and will be superceded:
 - [NeuraDataUpload](https://github.com/Neura-Technologies/NeuraDataUpload)
 - [NeuraDataUpload2](https://github.com/Neura-Technologies/NeuraDataUpload2)
 - [API_Lib](https://github.com/Neura-Technologies/API_Lib)
