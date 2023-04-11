@@ -84,4 +84,4 @@ The following repos is the existing Neura code base which is currently being rew
 - [NeuraActiveTariffLibrary](https://github.com/Neura-Technologies/NeuraActiveTariffLibrary)
 - [NeuraCurrentBilling](https://github.com/Neura-Technologies/NeuraCurrentBilling)
 - [NeuraSentinel](https://github.com/Neura-Technologies/NeuraSentinel)
-- [https://github.com/Neura-Technologies/NeuraDashboards](LINK)
+- [NeuraDashboards](https://github.com/Neura-Technologies/NeuraDashboards)
