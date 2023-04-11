@@ -48,8 +48,10 @@ Each grouping below shows which repo's have been deployed together on the same s
 The name of a grouping is the same name of the EC2 instance (server) deployed on AWS.
 
 ## 3.1 MQTT Broker
-- The code deployed on this server is not currently in a repo under this organization
-Neura Gateway, "server" is the broker/host, "gateway" is the client 
+[NeuraGateway](https://github.com/Neura-Technologies/NeuraGateway)
+The [Server](https://github.com/Neura-Technologies/NeuraGateway/tree/main/server) folder on this repo is deployed
+on this EC2 instance. The [Gateway](https://github.com/Neura-Technologies/NeuraGateway/tree/main/gateway) serves as
+the client.
 
 ## 3.2 Gateway Static File and DB
 - [IntermediateDB-App](https://github.com/Cauchy-Consult/IntermediateDB-App)
