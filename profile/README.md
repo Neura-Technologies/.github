@@ -7,7 +7,7 @@
 3. [Server Groupings](#3-server-groupings)
     - 3.1. [MQTT Broker](#31-mqtt-broker)
     - 3.2. [Gateway Static File and DB](#32-gateway-static-file-and-db)
-    - 3.3. [TestDBServer](#33-testdbserver)
+    - 3.3. [Intermediate DB](#33-intermediate-db)
     - 3.4. [Neura-BusiOpsMan-Staging](#34-neura-busiopsman-staging)
     - 3.5. [Microservices](#35-microservices)
 4. [Standalone Servies](#4-standalone-services)
@@ -48,14 +48,14 @@ Each grouping below shows which repo's have been deployed together on the same s
 The name of a grouping is the same name of the EC2 instance (server) deployed on AWS.
 
 ## 3.1 MQTT Broker
-- [NeuraGateway](https://github.com/Neura-Technologies/NeuraGateway). The [Server](https://github.com/Neura-Technologies/NeuraGateway/tree/main/server) folder on this repo is deployed on this EC2 instance. The [Gateway](https://github.com/Neura-Technologies/NeuraGateway/tree/main/gateway) serves as the client.
+- Mesquito MQTT is an Ubuntu 3rd party application that has been installed on the server. No repo currently exists for this.
 
 ## 3.2 Gateway Static File and DB
-- [IntermediateDB-App](https://github.com/Cauchy-Consult/IntermediateDB-App)
-    This repo is not in this organization at the moment, it needs to be moved over
+- [NeuraGateway](https://github.com/Neura-Technologies/NeuraGateway). The [Server](https://github.com/Neura-Technologies/NeuraGateway/tree/main/server) folder on this repo is deployed on this EC2 instance. The [Gateway](https://github.com/Neura-Technologies/NeuraGateway/tree/main/gateway) serves as the client.
 
-## 3.3 TestDBServer
-- ??
+## 3.3 Intermediate DB
+- [IntermediateDB-App](https://github.com/Cauchy-Consult/IntermediateDB-App)
+This repo is not in this organization at the moment, it needs to be moved over
 
 ## 3.4 Neura-BusiOpsMan-Staging
 - [DBMS](https://github.com/Neura-Technologies/DBMS)
