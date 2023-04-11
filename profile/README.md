@@ -48,7 +48,8 @@ Each grouping below shows which repo's have been deployed together on the same s
 The name of a grouping is the same name of the EC2 instance (server) deployed on AWS.
 
 ## 3.1 MQTT Broker
-[NeuraGateway](https://github.com/Neura-Technologies/NeuraGateway)
+- [NeuraGateway](https://github.com/Neura-Technologies/NeuraGateway)
+
 The [Server](https://github.com/Neura-Technologies/NeuraGateway/tree/main/server) folder on this repo is deployed
 on this EC2 instance. The [Gateway](https://github.com/Neura-Technologies/NeuraGateway/tree/main/gateway) serves as
 the client.
