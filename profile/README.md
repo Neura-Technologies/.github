@@ -64,20 +64,22 @@ Neura Gateway, "server" is the broker/host, "gateway" is the client
 
 ## 3.5 Microservices
 - [BillingMicroservice](https://github.com/Neura-Technologies/BillingMicroservice)
-- [DataUploadMicroservice ](https://github.com/Neura-Technologies/DataUploadMicroservice)
+- [DataUploadMicroservice ](https://github.com/Neura-Technologies/DataUploadMicroservice)a
 - [TradingMicroservice](https://github.com/Neura-Technologies/TradingMicroservice)
 
 # 4. Standalone Services
-- NeuraDataUpload (Scheduled to be obsolete)
-- NeuraDataUpload2 (Scheduled to be obsolete)
-- API_Lib (Scheduled to be obsolete)
-- Consumption (Scheduled to be obsolete)
-- NeuraLibrary (Scheduled to be obsolete)
-- NeuraCurrentBilling2 (Scheduled to be obsolete)
-- NeuraActiveData (Scheduled to be obsolete)
-- NeuraActiveTariffLibrary (Scheduled to be obsolete)
-- NeuraCurrentBilling (Scheduled to be obsolete)
-- NeuraSentinel (Scheduled to be obsolete)
-- NeuraDashboards (Scheduled to be obsolete)
 
--NeuraGateway
+## 4.1 Soon to be obsolete
+
+The following repos is the existing Neura code base which is currently being rewritten will be superceded:
+- [NeuraDataUpload](https://github.com/Neura-Technologies/NeuraDataUpload) (Scheduled to be obsolete)
+- [NeuraDataUpload2](https://github.com/Neura-Technologies/NeuraDataUpload2) (Scheduled to be obsolete)
+- [API_Lib](https://github.com/Neura-Technologies/API_Lib) (Scheduled to be obsolete)
+- [Consumption](https://github.com/Neura-Technologies/Consumption) (Scheduled to be obsolete)
+- [NeuraLibrary](https://github.com/Neura-Technologies/NeuraLibrary) (Scheduled to be obsolete)
+- [NeuraCurrentBilling2](https://github.com/Neura-Technologies/NeuraCurrentBilling2) (Scheduled to be obsolete)
+- [NeuraActiveData](https://github.com/Neura-Technologies/NeuraActiveData) (Scheduled to be obsolete)
+- [NeuraActiveTariffLibrary](https://github.com/Neura-Technologies/NeuraActiveTariffLibrary) (Scheduled to be obsolete)
+- [NeuraCurrentBilling](https://github.com/Neura-Technologies/NeuraCurrentBilling) (Scheduled to be obsolete)
+- [NeuraSentinel](https://github.com/Neura-Technologies/NeuraSentinel) (Scheduled to be obsolete)
+- [https://github.com/Neura-Technologies/NeuraDashboards](LINK) (Scheduled to be obsolete)
