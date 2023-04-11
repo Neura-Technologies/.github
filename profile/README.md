@@ -73,7 +73,7 @@ Neura Gateway, "server" is the broker/host, "gateway" is the client
 
 ## 4.1 Soon to be Obsolete
 
-The following repos is the existing Neura code base which is currently being rewritten will be superceded:
+The following repos is the existing Neura code base which is currently being rewritten, and will be superceded:
 - [NeuraDataUpload](https://github.com/Neura-Technologies/NeuraDataUpload)
 - [NeuraDataUpload2](https://github.com/Neura-Technologies/NeuraDataUpload2)
 - [API_Lib](https://github.com/Neura-Technologies/API_Lib)
