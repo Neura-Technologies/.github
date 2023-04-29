@@ -65,7 +65,7 @@ This repo is not in this organization at the moment, it needs to be moved over
 
 ## 3.5 Microservices
 - [BillingMicroservice](https://github.com/Neura-Technologies/BillingMicroservice)
-- [DataUploadMicroservice ](https://github.com/Neura-Technologies/DataUploadMicroservice)a
+- [DataUploadMicroservice ](https://github.com/Neura-Technologies/DataUploadMicroservice)
 - [TradingMicroservice](https://github.com/Neura-Technologies/TradingMicroservice)
 
 # 4. Standalone Services
